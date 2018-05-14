@@ -1,4 +1,4 @@
 # hello-world
 My first repository
 
-Writing changes that at this moment only exist in this branch
+So ths is now a copy of my master file. I can edit in here without messing up my master file.
